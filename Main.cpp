@@ -6,5 +6,6 @@ int main()
 	nhap(a, 10);
 	//Goi ham tinh tong cac phan tu co trong mang
 	tinhTong(a,10);
+	HienSV();
 	return 0;
 }

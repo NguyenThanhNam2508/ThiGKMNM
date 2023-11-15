@@ -18,3 +18,8 @@ int tinhTong (int a[],int n)
 	}
 	return tong;
 }
+void HienSV()
+{
+	cout << "DH52005963" << "||"<<"Nguyen Thanh Nam" <<"D20_TH10";
+
+}
